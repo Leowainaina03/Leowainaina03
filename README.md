@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Leo Wainaina
 
-<!--
-**Leowainaina03/Leowainaina03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Information security and cybersecurity enthusiasts
+I'm an Information Security and Forensics graduate with an interest cybersecurity, cloud security, network security, penetration testing and information technology.
+I enjoy how systems work, solving technical problems, exploring security concepts, and developing skills through hands-on learning.
 
-Here are some ideas to get you started:
+# objective
+# Skills
+  # Cybersecurity
+Information security cybersecurity network security penetration testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  # Networking and Systems
+Switching Routing Operating systems Computer networking Network troubleshooting  
