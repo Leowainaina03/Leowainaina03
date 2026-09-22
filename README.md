@@ -16,19 +16,10 @@ Switching, Routing, Operating systems, Computer networking, Network troubleshoot
 ICT support, hardware installation, software installation, Troubleshooting
 
 # Areas of Interest
-Penetration testing
-Cloud security
-Network security
-Digital forensics
-Identity and access management
+Penetration testing, Cloud security, Network security, Digital forensics, Identity and access management
 
 # Tools
-Kali linux
-Linux
-Nmap
-Wireshark
-Metasploit
-Burpsuite
+Kali linux, Linux, Nmap, Wireshark, Metasploit, Burpsuite
 
 # Contact
 Email:leowainaina25@gmail.com
