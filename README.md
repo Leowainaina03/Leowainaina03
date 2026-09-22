@@ -6,8 +6,29 @@ I enjoy how systems work, solving technical problems, exploring security concept
 
 # objective
 # Skills
-  # Cybersecurity
-Information security cybersecurity network security penetration testing
+# Cybersecurity
+Information security, cybersecurity, network security, penetration testing
 
-  # Networking and Systems
-Switching Routing Operating systems Computer networking Network troubleshooting  
+# Networking and Systems
+Switching, Routing, Operating systems, Computer networking, Network troubleshooting
+
+# IT&Technical Support
+ICT support, hardware installation, software installation, Troubleshooting
+
+# Areas of Interest
+Penetration testing
+Cloud security
+Network security
+Digital forensics
+Identity and access management
+
+# Tools
+Kali linux
+Linux
+Nmap
+Wireshark
+Metasploit
+Burpsuite
+
+# Contact
+Email:leowainaina25@gmail.com
